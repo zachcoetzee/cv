@@ -147,7 +147,7 @@ figure.effect-oscar figcaption::before {
 	right: 30px;
 	bottom: 30px;
 	left: 30px;
-	border: 1px solid #03a9f4;
+	border: 1px solid #919b92;
 	content: '';
 }
 
@@ -172,7 +172,7 @@ figure.effect-oscar p {
 figure.effect-oscar:hover h2 {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
-	color: #03a9f4;
+	color: #919b92;
 }
 
 figure.effect-oscar:hover figcaption::before,
@@ -321,7 +321,7 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #03a9f4;
+    color: #919b92;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
@@ -331,12 +331,12 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #00a6f1;
+    color: white;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #00a6f1;
+    color: white;
     background-color: transparent;
 }
 
@@ -361,7 +361,7 @@ p {
 }
 .form-control{background: #009fe6;padding: 20px 15px;border-color: #9adfff;border-radius: 0;color: #fff;}
 .btn-primary {
-    color: #03a9f4;
+    color: #919b92;
     background-color: #ffffff;
     border-color: #ffffff;
     padding: 10px 34px;
@@ -425,7 +425,7 @@ p {
 
 .top_left_cont h2 strong {
     font-weight: 700;
-    color: #03a9f4;
+    color: #919b92;
 }
 
 .top_left_cont p {color: rgba(255, 255, 255, 0.74);margin: 0 0 50px 0;line-height: 24px;font-size: 15px;text-align: center;letter-spacing: 1px;font-weight: normal;}
@@ -480,7 +480,7 @@ a.read_more:hover {
 
 #service {
     padding: 50px 0px;
-    background: #03A9F4;
+    background: #919b92;
 }
 #service h2{
   color: #fff;
@@ -641,7 +641,7 @@ a.contact_btn:hover {
 
 #Portfolio {
     padding: 110px 0;
-    background: #03a9f4;
+    background: #919b92;
 }
 
 .Portfolio-nav {
@@ -882,7 +882,7 @@ background-position-y: 70px;
 	position: absolute;
 	font-family: FontAwesome;
 	font-size: 1.125em;
-	color: #03a9f4;
+	color: #919b92;
 	left: 0px;
 	top: 6px;
 }
@@ -1256,7 +1256,7 @@ border: 1px solid #CE1139;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #03a9f4;
+    background: #919b92;
 }
 
 .footer_bottom {
@@ -1392,7 +1392,7 @@ border: 1px solid #CE1139;
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #2b2b2b;
-    color: #03a9f4;
+    color: #919b92;
     text-decoration: none;
     border: #2b2b2b solid 1px;
 }
@@ -1610,8 +1610,8 @@ border: 1px solid #CE1139;
   position:relative;
   float:right;
 }
-.tooltip > .tooltip-inner {background-color: #03a9f4;padding:5px 15px;color:rgb(23,44,66);font-weight:bold;font-size:13px;}
-.popOver + .tooltip > .tooltip-arrow {border-left: 5px solid transparent;border-right: 5px solid transparent;border-top: 5px solid #03a9f4;}
+.tooltip > .tooltip-inner {background-color: #919b92;padding:5px 15px;color:rgb(23,44,66);font-weight:bold;font-size:13px;}
+.popOver + .tooltip > .tooltip-arrow {border-left: 5px solid transparent;border-right: 5px solid transparent;border-top: 5px solid #919b92;}
  
 .progress{
   border-radius:0;
@@ -1915,11 +1915,11 @@ margin-bottom: 25px;
 margin-left: 40px;
 position: relative;
 }
-.message-item .message-inner {background: #2b2b2b;border: 1px solid #797979;border-radius: 3px;padding: 10px;position: relative;}
+.message-item .message-inner {3px;padding: 10px;position: relative;}
 .message-item .message-inner:before {border-right: 10px solid #5e5e5e;border-style: solid;border-width: 10px;color: rgba(0,0,0,0);content: "";display: block;height: 0;position: absolute;left: -20px;top: 6px;width: 0;}
 .message-item .message-inner:after {border-right: 10px solid #2b2b2b;border-style: solid;border-width: 10px;color: rgba(0,0,0,0);content: "";display: block;height: 0;position: absolute;left: -18px;top: 6px;width: 0;}
 .message-item:before {background: #484848;border-radius: 2px;bottom: -30px;box-shadow: 0 0 3px rgba(0,0,0,0.2);content: "";height: 100%;left: -30px;position: absolute;width: 3px;}
-.message-item:after {background: #03a9f4;border: 2px solid #03a9f4;border-radius: 50%;box-shadow: 0 0 5px rgba(0,0,0,0.1);content: "";height: 15px;left: -36px;position: absolute;top: 10px;width: 15px;}
+.message-item:after {background: #919b92;border: 2px solid #919b92;border-radius: 50%;box-shadow: 0 0 5px rgba(0,0,0,0.1);content: "";height: 15px;left: -36px;position: absolute;top: 10px;width: 15px;}
 .clearfix:before, .clearfix:after {
 content: " ";
 display: table;
@@ -2148,7 +2148,7 @@ img {
     padding: 0;
     overflow: hidden;
     text-align: center;
-    background-color: #03A9F4;
+    background-color: #919b92;
     margin: 0;
 }
 
@@ -2156,7 +2156,7 @@ img {
     /* background: url("http://lorempixel.com/850/280/nature/4/"); */
     background-size: cover;
     height: 210px;
-    background: #0797d8;
+    background: #2a3838;
 }
 
 .card.hovercard .avatar {
@@ -2205,7 +2205,7 @@ img {
     text-overflow: ellipsis;
 }
 .card.hovercard .info .desc b{
-	color: #00608b;
+	color: white;
 }
 .card.hovercard .bottom {
     padding: 0 20px;
@@ -2310,7 +2310,7 @@ font-size: 30px;
 .page_section.contact {
 padding: 60px 0 50px;
 } 
-.navbar-inverse .navbar-toggle .icon-bar{background: #0797d8;}
+.navbar-inverse .navbar-toggle .icon-bar{background: #2a3838;}
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
 }
